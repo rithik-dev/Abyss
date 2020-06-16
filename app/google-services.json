@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "462969184565",
+    "firebase_url": "https://abyss-4527d.firebaseio.com",
+    "project_id": "abyss-4527d",
+    "storage_bucket": "abyss-4527d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462969184565:android:bd49c806ea4e73c46b6c7c",
+        "android_client_info": {
+          "package_name": "com.example.abyss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462969184565-ido0dsj67em8rgbtt2qgo7q2k063pbcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY6kOyH2Ic2soXziYudkw3UISTPKZaOUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462969184565-ido0dsj67em8rgbtt2qgo7q2k063pbcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
